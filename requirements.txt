@@ -1,0 +1,14 @@
+langchain>=0.0.189
+faiss-cpu
+transformers
+sentence-transformers
+python-dotenv
+torch  # needed by transformers, use `torch` for CPU; if you have GPU, you can install with cuda support
+langchain-community
+langchain_huggingface
+streamlit
+# accelerate
+langchain-google-genai
+python-dotenv
+unstructured
+chromadb
